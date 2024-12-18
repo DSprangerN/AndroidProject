@@ -1,6 +1,6 @@
 To clone a repository:
 
-git clone https://github.com/DSprangerN/WebProject.git
+git clone https://github.com/DSprangerN/AndroidProject.git
 
 Main Commands
 
