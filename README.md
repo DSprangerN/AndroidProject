@@ -1,4 +1,4 @@
-# Web-Project
+# Android Project
 Create a web page to schedule medical appointments (School project)
 
 To clone a repository:
